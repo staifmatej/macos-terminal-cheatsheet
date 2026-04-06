@@ -1,13 +1,13 @@
 # Anaconda pro spravu Python balicku
 
 For activation prostredi:
-```conda activate ml1```
+```conda activate ml1``` <br>
 Pro vypsani vsech knihovne v prostredi (prostredi musi byt aktivovane)
-```conda list``` 
+```conda list``` <br>
 Pro vypsani vsech prostredi:
-```conda env list```
+```conda env list``` <br>
 vypnuti prostredi:
-```conda deactivate```
+```conda deactivate``` <br>
 
 
 
