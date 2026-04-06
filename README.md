@@ -38,6 +38,9 @@ vypnuti prostredi:
 ```
 conda deactivate
 ```
-
+Pro instalaci nejake lib (napr. `polars`) musim mit jiz aktivovane prostredi:
+```
+conda install polars
+```
 
 
