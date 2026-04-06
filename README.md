@@ -5,6 +5,9 @@ Globalni konfiguracni soubor:
 Otevreni pres `nano`:
 ```nano ~/.zshrc```
 
+Pro okamzite ulozeni a nacteni zmen v `~/.zshrc` musim spustit command:
+```source ~/.zshrc```
+
 For activation prostredi:
 
 ```conda activate ml1``` <br>
