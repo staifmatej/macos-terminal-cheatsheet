@@ -11,22 +11,32 @@ nano ~/.zshrc
 ```
 
 Pro okamzite ulozeni a nacteni zmen v `~/.zshrc` musim spustit command:
-```source ~/.zshrc```
+```
+source ~/.zshrc
+```
 
 ## Anaconda pro spravu balicku
 
 For activation prostredi:
 
-```conda activate ml1``` <br>
+```
+conda activate ml1
+```
 Pro vypsani vsech knihovne v prostredi (prostredi musi byt aktivovane)
 
-```conda list``` <br>
+```
+conda list
+```
 Pro vypsani vsech prostredi:
 
-```conda env list``` <br>
+```
+conda env list
+```
 vypnuti prostredi:
 
-```conda deactivate``` <br>
+```
+conda deactivate
+```
 
 
 
