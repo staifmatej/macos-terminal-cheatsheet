@@ -6,7 +6,9 @@ NOTE: cheatsheet jsem si vytvoril pro sebe jako souhrn castych commandu, ktere b
 ## Globalni konfiguracni soubor:
 
 Otevreni pres `nano`:
-```nano ~/.zshrc```
+```
+nano ~/.zshrc
+```
 
 Pro okamzite ulozeni a nacteni zmen v `~/.zshrc` musim spustit command:
 ```source ~/.zshrc```
