@@ -1,6 +1,6 @@
 # MacOS terminal cheatsheet 
 
-**NOTE:** cheatsheet jsem si vytvoril pro sebe jako souhrn castych commandu, ktere bezne pouzivam, abych si je mohl rychle dohledavat, takze zde commandy nejak moc vyrazne nekomentuji ci nevysvetluji, nebot to neni vyznam tohoto meho cheatsheetu. 
+**NOTE:** cheatsheet jsem si vytvoril pro sebe jako souhrn castych commandu na Macintosh (MacOS), ktere bezne pouzivam, abych si je mohl rychle dohledavat, takze zde commandy nejak moc vyrazne nekomentuji ci nevysvetluji, nebot to neni vyznam tohoto meho cheatsheetu. 
 
 ## Globalni konfiguracni soubor:
 
