@@ -41,4 +41,12 @@ Pro instalaci nejake lib (napr. `polars`) musim mit jiz aktivovane prostredi:
 conda install polars
 ```
 
+## Git (mam soubor lokalne a chci hodit na repo)
 
+```
+git init
+git add remote origin git@github.com:staifmatej/bi-pa2.gitxy
+git pull origin main --no-rebase --allow-unrelated-histories
+gpush
+```
+**NOTE:**
