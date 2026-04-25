@@ -49,5 +49,5 @@ gpush
 
 ```
 Control + E  # end of the line.
-Control + A  # beginning of the line
+Control + A  # beginning of the line.
 ```
