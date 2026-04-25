@@ -49,4 +49,10 @@ git add remote origin git@github.com:staifmatej/bi-pa2.gitxy
 git pull origin main --no-rebase --allow-unrelated-histories
 gpush
 ```
-**NOTE:**
+
+## Terminal shortcuts
+
+```
+Control + E  # end of the line.
+Control + A  # beginning of the line
+```
