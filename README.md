@@ -1,54 +1,50 @@
-# MacOS terminal cheatsheet 
+# MacOS terminal cheatsheet
 
-**NOTE:** cheatsheet jsem si vytvoril pro sebe jako souhrn castych commandu na Macintosh (MacOS), ktere bezne pouzivam, abych si je mohl rychle dohledavat, takze zde commandy nejak moc vyrazne nekomentuji ci nevysvetluji, nebot to neni vyznam tohoto meho cheatsheetu. 
+**NOTE:** I created this cheatsheet for myself as a summary of common commands for Macintosh (MacOS) that I regularly use, so I can quickly look them up. I don't comment or explain the commands here in much detail, since that's not the purpose of this cheatsheet.
 
-## Globalni konfiguracni soubor:
-
-Otevreni pres `nano`:
+## Global configuration file:
+Open with `nano`:
 ```
 nano ~/.zshrc
 ```
-
-Pro okamzite ulozeni a nacteni zmen v `~/.zshrc` musim spustit command:
+To immediately save and load changes in `~/.zshrc`, I need to run the command:
 ```
 source ~/.zshrc
 ```
-
-## Anaconda pro spravu balicku
-
-For activation prostredi:
+## Anaconda for package management
+For environment activation:
 
 ```
 conda activate ml1
 ```
-Pro vypsani vsech knihovne v prostredi (prostredi musi byt aktivovane)
-
+To list all libraries in the environment (the environment must be activated):
 ```
 conda list
 ```
-Pro vypsani vsech prostredi:
+To list all environments:
 
 ```
 conda env list
 ```
-vypnuti prostredi:
+Deactivate environment:
 
 ```
 conda deactivate
 ```
-Pro instalaci nejake lib (napr. `polars`) musim mit jiz aktivovane prostredi:
+To install some lib (e.g. `polars`) I must already have the environment activated:
 ```
 conda install polars
 ```
 
-## Git (mam soubor lokalne a chci hodit na repo)
+## Git (I have local files, want to push to remote repo)
 
 ```
 git init
-git add remote origin git@github.com:staifmatej/bi-pa2.gitxy
+git remote add origin git@github.com:staifmatej/bi-pa2.gitxy
 git pull origin main --no-rebase --allow-unrelated-histories
 gpush
 ```
+<<<<<<< HEAD
 
 ## Terminal shortcuts
 
@@ -56,3 +52,5 @@ gpush
 Control + E  # end of the line.
 Control + A  # beginning of the line
 ```
+=======
+>>>>>>> 9194607dc780720b477354030e292f284bce255e
