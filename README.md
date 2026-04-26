@@ -36,6 +36,11 @@ To install some lib (e.g. `polars`) I must already have the environment activate
 conda install polars
 ```
 
+To show the local version in the current environment:
+```
+conda list numpy
+```
+
 ## Git (I have local files, want to push to remote repo)
 
 ```
