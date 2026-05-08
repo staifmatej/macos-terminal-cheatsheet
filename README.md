@@ -55,4 +55,5 @@ gpush
 ```
 Control + E  # end of the line.
 Control + A  # beginning of the line.
+Control + U  # delete from cursor to beginning of the line.
 ```
