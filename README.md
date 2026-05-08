@@ -45,7 +45,7 @@ conda list numpy
 
 ```
 git init
-git remote add origin git@github.com:staifmatej/bi-pa2.gitxy
+git remote add origin git@github.com:staifmatej/bi-pa2.git
 git pull origin main --no-rebase --allow-unrelated-histories
 gpush
 ```
