@@ -56,5 +56,5 @@ gpush
 Control + E  # end of the line.
 Control + A  # beginning of the line.
 Control + U  # delete from cursor to beginning of the line.
-Control + J  # vloží nový řádek v terminálu, ale neodešle (na rozdíl od Enter).
+Control + J  # insert a new line in terminal, but does not send (unlike Enter).
 ```
