@@ -58,3 +58,10 @@ Control + A  # beginning of the line.
 Control + U  # delete from cursor to beginning of the line.
 Control + J  # insert a new line in terminal, but does not send (unlike Enter).
 ```
+
+## CLion / PyCharm
+
+```
+Cmd + ←  # jump to the beginning of the line in code.
+Cmd + →  # jump to the end of the line in code.
+```
