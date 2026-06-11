@@ -59,6 +59,12 @@ Control + U  # delete from cursor to beginning of the line.
 Control + J  # insert a new line in terminal, but does not send (unlike Enter).
 ```
 
+## Timer for work
+
+```
+countdown 1m
+```
+
 ## CLion / PyCharm
 
 ```
