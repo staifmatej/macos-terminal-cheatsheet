@@ -65,6 +65,12 @@ Control + J  # insert a new line in terminal, but does not send (unlike Enter).
 countdown 1m
 ```
 
+## Pomodoro timer
+
+```
+pomo 50m 10m
+```
+
 ## CLion / PyCharm
 
 ```
